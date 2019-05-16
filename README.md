@@ -14,6 +14,6 @@ But such happenings requires rehearsal and organization.
 
 The idea is to offer a web-site where participants can dynmically obtained a GPS position to go and help forming a pixel of the message.
 
-## The specification of the software are (here).
+## The specification of the software are [here](specification.md).
 
 
