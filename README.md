@@ -1,7 +1,7 @@
 # Human Crowd Message
 
 A tool that helps synchronising human crowd to display a message visible from the sky.
-This [YouTube video](https://youtu.be/b5hAUOMHUs4) gives an example of the exprected result.
+This [YouTube video](https://youtu.be/b5hAUOMHUs4?t=13) gives an example of the exprected result.
 
 ## The aim of this software 
 
